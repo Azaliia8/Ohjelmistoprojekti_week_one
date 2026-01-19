@@ -1,3 +1,6 @@
-## Header
+# Header
 
 kuvaus bla-bla
+
+# Local development 
+1. open index.html in your browser
